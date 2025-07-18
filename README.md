@@ -10,7 +10,7 @@ This Flutter screen showcases a stylish 3D wheel-style scrolling list using `Lis
 
 ## 📸 Screenshot
 
-<img src="Screenshot.png" alt="Screenshot" width="400" height="600">
+<img src="Screenshot.png" alt="Screenshot" width="350" height="650">
 
 
 
