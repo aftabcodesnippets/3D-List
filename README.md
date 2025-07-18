@@ -10,7 +10,8 @@ This Flutter screen showcases a stylish 3D wheel-style scrolling list using `Lis
 
 ## 📸 Screenshot
 
-![Screenshot](Screenshot.png)
+<img src="Screenshot.png" alt="Screenshot" width="400">
+
 
 ## 📁 File Info
 - `p51_3d_list.dart` — contains the complete 3D List UI
